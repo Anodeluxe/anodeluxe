@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, Hello! 👋
+## Azfanova Sammy Rafif Saputra
+## Undergraduate Information Technology Student from Indonesia!
+
+- 👀 I’m interested in A.I., Machine Learning, Data Science, and GameDev.
+- 🌱 I’m currently learning Unreal Engine 5 as my first game engine to develop games with!
+- aku mah masih pemula.
 
 <!--
 **Anodeluxe/anodeluxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
