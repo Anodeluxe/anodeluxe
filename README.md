@@ -2,12 +2,11 @@
 ## Azfanova Sammy Rafif Saputra
 ## Undergraduate Information Technology Student from Indonesia!
 
-- 👀 I’m interested in A.I., Data Science & Machine Learning, and GameDev!
-- 🌱 I’m currently learning Unreal Engine 5 as my first game engine to develop games with!
-- aku mah masih pemula.
+- 👀 interested in A.I., Data Science & Machine Learning, and GameDev!
+- 🌱 currently learning Godot as my first game engine to develop games with!
 
 ## What I'm currently learning:
-- Data Analytics & Machine Learning 📊
+- Front-End Web Development
 
 Ever since I've joined KMTETI and OmahTI's Data Science training, I now have an interest in learning more and increasing my proficiency on Data Science and also Machine Learning. I'm currently still learning the basics and hoping to build my portfolio in the near future.
   
